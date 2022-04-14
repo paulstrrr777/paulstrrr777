@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @paulstrrr777
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python programming
+- 🌱 I’m currently learning python, html, css, C#
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me - write to strelnikov_p@list.ru or WhatsUp +79222218676
 
 <!---
